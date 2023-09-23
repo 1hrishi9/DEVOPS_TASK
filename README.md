@@ -1,5 +1,5 @@
 # DEVOPS_TASK
-MIXED tasked of linux aws and devops in this repo
+MIXED task of linux aws and devops in this repo
 
 ## task 1 take backup of ami on a daily basis in an interval of 12hr
 ### APPROACH
